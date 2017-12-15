@@ -11,7 +11,7 @@ import io.swagger.annotations.ApiModelProperty;
  * @date 创建时间：2017年12月15日 下午4:32:59 
  * @version 1.0 
  * @parameter
- * 封装返回数据
+ * 封装返回数据2
  */
 public class AjaxResult {
 
