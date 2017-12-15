@@ -12,7 +12,7 @@ druid数据库连接池<br>
 ConcurrentHashMap在线程安全的基础上提供了更好的写并发能力<br>
 集成Swagger 是一款RESTFUL接口的文档在线自动生成+功能测试功能软件<br>
 springboot+redis+mybatis+mysql+swagger+定时器<br>
-需要注意的地方：
+需要注意的地方：<br>
 ==
 1.本项目是基于eclipse开发工具开发的<br>
 2.sql文件放到根目录下的sql文件中<br>
