@@ -24,7 +24,7 @@ springboot+redis+mybatis+mysql+swagger+定时器<br>
 -
 5.swagger很好用。可以测试接口功能<br>
 -
-6.启动后项目的访问路径是：http://localhost:8082/swagger-ui.html<br>
+6.启动后项目的访问路径是：http://localhost:8081/swagger-ui.html<br>
 -
 
 该项目很适用于新手学习springboot的相关知识。本人也是一位springboot的初学者<br>
