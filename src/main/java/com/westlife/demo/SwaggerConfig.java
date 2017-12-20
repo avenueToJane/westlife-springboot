@@ -15,9 +15,10 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author 杨生_科大讯飞
- * @date 创建时间：2017年12月9日 下午2:24:05
- * @version 1.0
+ * 
+ * @author  westlife
+ * @date 创建时间：2017年12月20日 上午11:26:33 
+ * @version 1.0 
  * @parameter
  *
  */
